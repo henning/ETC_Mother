@@ -9,6 +9,7 @@ verify_ssl = true
 pygame = "*"
 psutil = "*"
 pyliblo = "*"
+cython = "*"
 
 [requires]
 python_version = "2.7"
